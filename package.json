@@ -1,0 +1,21 @@
+{
+  "name": "logic-cli",
+  "version": "0.1.0",
+  "description": "Logic module bundling CLI",
+  "type": "module",
+  "bin": {
+    "logic": "./bin/logic.js"
+  },
+  "files": [
+    "bin",
+    "src"
+  ],
+  "scripts": {
+    "start": "node ./bin/logic.js",
+    "dev": "node ./bin/logic.js"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=18"
+  }
+}
