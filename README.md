@@ -1,1 +1,3 @@
 # logic-cli
+
+start
