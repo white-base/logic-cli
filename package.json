@@ -1,5 +1,5 @@
 {
-  "name": "logic-cli",
+  "name": "logic-auto-cli",
   "version": "0.1.0",
   "description": "Logic module bundling CLI",
   "type": "module",
